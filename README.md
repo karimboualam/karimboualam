@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/Banner2.png" alt="Karim Boualam - Ingénieur Full Stack & DevOps" width="100%" style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" 
+       alt="Karim Boualam - Ingénieur Full Stack & DevOps" 
+       width="100%" 
+       style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
 </p>
 
 <br/>
 
-
 <h1 align="center">👋 Hey, I'm Karim Boualam</h1>
 <h3 align="center">🚀 Full Stack & DevOps Engineer | Java • Spring Boot • Angular • Docker • CI/CD</h3>
-
-###
 
 <p align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" alt="coding gif"/>
@@ -16,38 +16,70 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-💼 Full Stack Developer with **3+ years of experience** in web app design, development, and deployment  
-🧩 Passionate about **microservices, automation, and DevOps**  
-🐳 Experienced with **Spring Boot, Angular, Docker, CI/CD (GitHub Actions, Jenkins, GitLab)**  
-⚙️ Love working on **scalable backends** and **clean, maintainable frontends**  
-🎯 Goal: Build performant, secure, and cloud-ready apps  
-📍 Based in France — Open to collaboration & tech exchange  
-
----
-
-### 🧠 Tech Stack
-
-<div align="center">
-  
-#### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,python,cs,js,ts" height="45" />
-
-#### ⚙️ Backend & DevOps  
-<img src="https://skillicons.dev/icons?i=spring,dotnet,docker,kubernetes,jenkins,githubactions,gitlab" height="45" />
-
-#### 🎨 Frontend  
-<img src="https://skillicons.dev/icons?i=angular,react,bootstrap,html,css" height="45" />
-
-#### 🗄️ Databases & Tools  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postman,figma,idea,vscode" height="45" />
-
-</div>
+💼 **Full Stack Developer** with 3+ years of experience in web application design, development, and deployment.  
+🧩 Passionate about **microservices, automation, and DevOps culture**.  
+🐳 Strong experience with **Spring Boot, Angular, Docker, CI/CD (GitHub Actions, Jenkins, GitLab)**.  
+⚙️ Enjoy building **scalable backends** and **clean, maintainable frontends**.  
+🎯 Goal: Deliver high-quality, cloud-ready software solutions.  
+📍 Based in France — open to collaboration & new opportunities.
 
 ---
 
-### 🚀 My GitHub Stats
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,cs,dotnet,docker,kubernetes,jenkins,githubactions,gitlab,mysql,mongodb,postman,figma,idea,vscode" />
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+- **Microservices Management System**  
+  Architecture distribuée (Spring Boot, Kafka, Angular, MySQL).  
+  CI/CD automatisé avec GitHub Actions + Docker, monitoring via Prometheus.
+
+- **Code Quality Dashboard**  
+  Application interne d’analyse de code (Spring Boot, Angular, SonarQube).  
+  Automatisation des tests & intégration continue via GitLab CI/CD.
+
+- **Historic Sites Management Platform**  
+  Projet académique de gestion de monuments.  
+  Conteneurisation & déploiement Kubernetes orchestré via Jenkins.
+
+---
+
+## 💼 Professional Experience
+
+🕒 **2024–2025** — *Full Stack Java/Angular Developer (Freelance @ Assfa)*  
+→ Microservices, CI/CD pipelines, Kafka, Docker, GitHub Actions  
+
+🕒 **2024** — *Full Stack Developer @ Capgemini*  
+→ API REST, Angular, GitLab CI/CD, SonarQube, Azure DevOps  
+
+🕒 **2023–2024** — *Academic Project — Historic Sites Management*  
+→ Spring Boot microservices, Jenkins, Docker, Kubernetes  
+
+---
+
+## 🎓 Certifications
+
+- 🏅 [Professional Scrum Developer (PSD I)](https://www.scrum.org/professional-scrum-developer)
+- 🎓 Master 2 — **Big Data et Cloud Computing**, Université de Montpellier (en cours)
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **Spring Cloud** (Config, Gateway, Resilience4j)  
+- **Cloud-native DevOps**: CI/CD optimization & monitoring  
+- **Python for Big Data Analysis**
+
+---
+
+## 🚀 My GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karimboualam&show_icons=true&theme=radical" height="150" alt="stats graph" />
@@ -56,7 +88,7 @@
 
 ---
 
-### 🏆 Achievements & Activity
+## 🏆 Achievements & Activity
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=karimboualam&theme=radical&hide_border=false" height="180" alt="GitHub streak stats" />
@@ -65,7 +97,7 @@
 
 ---
 
-### 🐍 Contribution Animation
+## 🐍 Contribution Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
@@ -73,7 +105,7 @@
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/karim-boualam/" target="_blank">
@@ -95,4 +127,7 @@
 
 ---
 
-💡 *“Automate, optimize, deliver — that’s my way of coding.”*
+<p align="center">
+  <i>“Passionate about clean architecture, automation, and scalable systems.”</i><br/>
+  <b>Karim Boualam — Full Stack & DevOps Engineer</b>
+</p>
