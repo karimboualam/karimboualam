@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/Banner2.png" 
        alt="Karim Boualam - Ingénieur Full Stack & DevOps" 
        width="100%" 
        style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
@@ -20,34 +20,57 @@
 
 💼 **Full Stack Developer** with 3+ years of experience in web application design, development, and deployment.  
 🧩 Passionate about **microservices, automation, and DevOps culture**.  
-🐳 Strong experience with **Spring Boot, Angular, Docker, CI/CD (GitHub Actions, Jenkins, GitLab)**.  
-⚙️ Enjoy building **scalable backends** and **clean, maintainable frontends**.  
+🐳 Experienced with **Spring Boot, Angular, Docker, CI/CD (GitHub Actions, Jenkins, GitLab)**.  
+⚙️ Love building **scalable backends** and **clean, maintainable frontends**.  
 🎯 Goal: Deliver high-quality, cloud-ready software solutions.  
 📍 Based in France — open to collaboration & new opportunities.
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Technical Skills
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,python,cs,dotnet,docker,kubernetes,jenkins,githubactions,gitlab,mysql,mongodb,postman,figma,idea,vscode" />
-</p>
+### 🧩 Backend & Microservices
+**Languages:** Java (8–17), C#, Python, PHP  
+**Frameworks:** Spring Boot, .NET Core, Flask, Django, Symfony, JEE, API REST  
+**Architecture:** Microservices, RESTful APIs, Clean Architecture  
+
+### 🎨 Frontend Development
+**Languages & Frameworks:** TypeScript, JavaScript  
+**Libraries/Frameworks:** Angular, React  
+**UI/UX:** Material UI, Bootstrap, Figma  
+
+### 💾 Databases
+**Relational:** Oracle (PL/SQL), MySQL  
+**NoSQL:** MongoDB  
+
+### 🧪 Testing & Security
+**Testing:** JUnit 5, Mockito, Jasmine  
+**Security:** Spring Security, OAuth2, JWT  
+
+### ☁️ Cloud & DevOps
+**Containerization:** Docker, Kubernetes  
+**CI/CD:** GitHub Actions, Jenkins, GitLab CI/CD, Azure DevOps  
+**Version Control:** Git, GitHub, GitLab  
+
+### 📈 Project Management & Agile
+**Modeling:** UML, Merise  
+**Methodologies:** Scrum, Kanban, SAFe, TDD  
 
 ---
 
 ## 🧩 Featured Projects
 
 - **Microservices Management System**  
-  Architecture distribuée (Spring Boot, Kafka, Angular, MySQL).  
-  CI/CD automatisé avec GitHub Actions + Docker, monitoring via Prometheus.
+  Distributed architecture (Spring Boot, Kafka, Angular, MySQL).  
+  CI/CD automation with GitHub Actions + Docker, monitoring via Prometheus.
 
 - **Code Quality Dashboard**  
-  Application interne d’analyse de code (Spring Boot, Angular, SonarQube).  
-  Automatisation des tests & intégration continue via GitLab CI/CD.
+  Internal app for code analysis (Spring Boot, Angular, SonarQube).  
+  Automated testing & continuous integration with GitLab CI/CD.
 
 - **Historic Sites Management Platform**  
-  Projet académique de gestion de monuments.  
-  Conteneurisation & déploiement Kubernetes orchestré via Jenkins.
+  Academic project for monument management.  
+  Dockerized deployment on Jenkins & Kubernetes.
 
 ---
 
@@ -66,7 +89,7 @@
 
 ## 🎓 Certifications
 
-- 🏅 [Professional Scrum Developer (PSD I)](https://www.scrum.org/professional-scrum-developer)
+- 🏅 [Professional Scrum Developer (PSD I)](https://www.scrum.org/professional-scrum-developer)  
 - 🎓 Master 2 — **Big Data et Cloud Computing**, Université de Montpellier (en cours)
 
 ---
