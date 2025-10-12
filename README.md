@@ -27,44 +27,49 @@
 
 ---
 
-## 🧠 Technical Skills
+## 🧠 Tech Stack
 
 <div align="center">
 
-### 🧩 Backend & Microservices  
-<img src="https://skillicons.dev/icons?i=java,python,cs,php,spring,dotnet,django,flask,jee" height="45" /><br/>  
-**Architecture:** Microservices • RESTful APIs • Clean Architecture
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=java,cs,python,php,javascript,typescript" height="45" />  
+<br/>
 
----
+### ⚙️ Backend & Frameworks
+<img src="https://skillicons.dev/icons?i=spring,dotnet,django,flask,jee" height="45" />  
+<br/>
 
-### 🎨 Frontend Development  
-<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,bootstrap,materialui,figma" height="45" /><br/>  
-**UI/UX:** Responsive design • Reusable Components
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap,materialui" height="45" />  
+<br/>
 
----
+### 🧪 Testing & Security
+<img src="https://skillicons.dev/icons?i=java,spring" height="45" />  
+<p>JUnit • Mockito • Jasmine • Spring Security • OAuth2 • JWT</p>  
 
-### 💾 Databases  
-<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" height="45" /><br/>  
-**Concepts:** PL/SQL • Data modeling • Optimization
+<br/>
 
----
+### ☁️ Cloud, DevOps & Automation
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,azure,aws" height="45" />  
+<p>CI/CD • Containerization • Monitoring • Infrastructure as Code</p>  
 
-### 🧪 Testing & Security  
-<img src="https://skillicons.dev/icons?i=java,spring" height="45" /><br/>  
-**Tools:** JUnit5 • Mockito • Jasmine • Spring Security • OAuth2 • JWT  
+<br/>
 
----
+### 🧩 Architecture & Tools
+<img src="https://skillicons.dev/icons?i=kafka,postman,mysql,mongodb,oracle" height="45" />  
+<p>Microservices • Event-Driven Systems • API REST • Data Management</p>
 
-### ☁️ Cloud & DevOps  
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,azure,git" height="45" /><br/>  
-**CI/CD:** GitHub Actions • GitLab CI/CD • Jenkins Pipelines  
+<br/>
 
----
+### 🧠 AI, Data & Cloud
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,gcp,aws,azure" height="45" />  
+<p>Machine Learning • Cloud-Native Apps • Distributed Systems</p>
 
-### 📈 Project Management & Agile  
-<img src="https://skillicons.dev/icons?i=git,github,gitlab" height="45" /><br/>  
-**Methodologies:** Scrum • Kanban • SAFe • TDD  
-**Modeling:** UML • Merise  
+<br/>
+
+### 📈 Agile & Collaboration
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,figma" height="45" />  
+<p>Scrum • Kanban • Agile • Team Collaboration • UML • Merise</p>
 
 </div>
 
