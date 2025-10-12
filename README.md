@@ -10,7 +10,7 @@
 
 <!-- Professional banner with contact info -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/Banner2.png" 
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" 
        alt="Karim Boualam - Full Stack & DevOps Engineer" 
        width="100%" 
        style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
