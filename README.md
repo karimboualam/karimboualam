@@ -5,16 +5,17 @@
 
 <!-- Animated typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+%26+DevOps+Engineer;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Angular+%E2%80%A2+Docker+%E2%80%A2+CI%2FCD" alt="typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=800&lines=Full+Stack+%26+DevOps+Engineer;Java+•+Spring+Boot+•+Angular+•+Docker+•+CI%2FCD" alt="typing" />
 </p>
 
-
+<!-- Professional banner with contact info -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/Banner2.png" 
        alt="Karim Boualam - Full Stack & DevOps Engineer" 
        width="100%" 
        style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
 </p>
+
 
 <h1 align="center">👋 Hey, I'm Karim Boualam</h1>
 <h3 align="center">🚀 Full Stack & DevOps Engineer | Java • Spring Boot • Angular • Docker • CI/CD</h3>
