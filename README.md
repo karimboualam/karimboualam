@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/Banner2.png" 
-       alt="Karim Boualam - Ingénieur Full Stack & DevOps" 
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" 
+       alt="Karim Boualam - Full Stack & DevOps Engineer" 
        width="100%" 
        style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
 </p>
@@ -20,57 +20,69 @@
 
 💼 **Full Stack Developer** with 3+ years of experience in web application design, development, and deployment.  
 🧩 Passionate about **microservices, automation, and DevOps culture**.  
-🐳 Experienced with **Spring Boot, Angular, Docker, CI/CD (GitHub Actions, Jenkins, GitLab)**.  
-⚙️ Love building **scalable backends** and **clean, maintainable frontends**.  
-🎯 Goal: Deliver high-quality, cloud-ready software solutions.  
-📍 Based in France — open to collaboration & new opportunities.
+🐳 Skilled with **Spring Boot, Angular, Docker, Jenkins, GitHub Actions**.  
+⚙️ I love building **scalable backends** and **clean, maintainable frontends**.  
+🎯 My goal: Deliver performant, secure, and cloud-ready software solutions.  
+📍 Based in France — open to collaboration & innovation.
 
 ---
 
 ## 🧠 Technical Skills
 
-### 🧩 Backend & Microservices
-**Languages:** Java (8–17), C#, Python, PHP  
-**Frameworks:** Spring Boot, .NET Core, Flask, Django, Symfony, JEE, API REST  
-**Architecture:** Microservices, RESTful APIs, Clean Architecture  
+<div align="center">
 
-### 🎨 Frontend Development
-**Languages & Frameworks:** TypeScript, JavaScript  
-**Libraries/Frameworks:** Angular, React  
-**UI/UX:** Material UI, Bootstrap, Figma  
+### 🧩 Backend & Microservices  
+<img src="https://skillicons.dev/icons?i=java,python,cs,php,spring,dotnet,django,flask,jee" height="45" /><br/>  
+**Architecture:** Microservices • RESTful APIs • Clean Architecture
 
-### 💾 Databases
-**Relational:** Oracle (PL/SQL), MySQL  
-**NoSQL:** MongoDB  
+---
 
-### 🧪 Testing & Security
-**Testing:** JUnit 5, Mockito, Jasmine  
-**Security:** Spring Security, OAuth2, JWT  
+### 🎨 Frontend Development  
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,bootstrap,materialui,figma" height="45" /><br/>  
+**UI/UX:** Responsive design • Reusable Components
 
-### ☁️ Cloud & DevOps
-**Containerization:** Docker, Kubernetes  
-**CI/CD:** GitHub Actions, Jenkins, GitLab CI/CD, Azure DevOps  
-**Version Control:** Git, GitHub, GitLab  
+---
 
-### 📈 Project Management & Agile
-**Modeling:** UML, Merise  
-**Methodologies:** Scrum, Kanban, SAFe, TDD  
+### 💾 Databases  
+<img src="https://skillicons.dev/icons?i=mysql,oracle,mongodb" height="45" /><br/>  
+**Concepts:** PL/SQL • Data modeling • Optimization
+
+---
+
+### 🧪 Testing & Security  
+<img src="https://skillicons.dev/icons?i=java,spring" height="45" /><br/>  
+**Tools:** JUnit5 • Mockito • Jasmine • Spring Security • OAuth2 • JWT  
+
+---
+
+### ☁️ Cloud & DevOps  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,githubactions,gitlab,azure,git" height="45" /><br/>  
+**CI/CD:** GitHub Actions • GitLab CI/CD • Jenkins Pipelines  
+
+---
+
+### 📈 Project Management & Agile  
+<img src="https://skillicons.dev/icons?i=git,github,gitlab" height="45" /><br/>  
+**Methodologies:** Scrum • Kanban • SAFe • TDD  
+**Modeling:** UML • Merise  
+
+</div>
 
 ---
 
 ## 🧩 Featured Projects
 
-- **Microservices Management System**  
-  Distributed architecture (Spring Boot, Kafka, Angular, MySQL).  
-  CI/CD automation with GitHub Actions + Docker, monitoring via Prometheus.
+💠 **Microservices Management System**  
+Distributed architecture (Spring Boot, Kafka, Angular, MySQL).  
+CI/CD automation with GitHub Actions + Docker, monitoring via Prometheus.
 
-- **Code Quality Dashboard**  
-  Internal app for code analysis (Spring Boot, Angular, SonarQube).  
-  Automated testing & continuous integration with GitLab CI/CD.
+💠 **Code Quality Dashboard**  
+Internal code analysis app (Spring Boot, Angular, SonarQube).  
+Automated testing & continuous integration via GitLab CI/CD.
 
-- **Historic Sites Management Platform**  
-  Academic project for monument management.  
-  Dockerized deployment on Jenkins & Kubernetes.
+💠 **Historic Sites Management Platform**  
+Academic project for heritage management.  
+Containerized deployment on Jenkins & Kubernetes.
 
 ---
 
@@ -89,24 +101,24 @@
 
 ## 🎓 Certifications
 
-- 🏅 [Professional Scrum Developer (PSD I)](https://www.scrum.org/professional-scrum-developer)  
-- 🎓 Master 2 — **Big Data et Cloud Computing**, Université de Montpellier (en cours)
+🎯 **Professional Scrum Developer (PSD I)** — [Scrum.org](https://www.scrum.org/professional-scrum-developer)  
+🎓 **Master 2 — Big Data & Cloud Computing**, Université de Montpellier *(in progress)*  
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced **Spring Cloud** (Config, Gateway, Resilience4j)  
-- **Cloud-native DevOps**: CI/CD optimization & monitoring  
-- **Python for Big Data Analysis**
+📘 **Advanced Spring Cloud** — Config • Gateway • Resilience4j  
+☁️ **Cloud-native DevOps** — CI/CD optimization & observability  
+🐍 **Python for Big Data Analysis**
 
 ---
 
-## 🚀 My GitHub Stats
+## 🚀 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karimboualam&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimboualam&layout=compact&theme=radical" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karimboualam&show_icons=true&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimboualam&layout=compact&theme=radical&hide_border=true" height="160" />
 </div>
 
 ---
@@ -114,8 +126,8 @@
 ## 🏆 Achievements & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=karimboualam&theme=radical&hide_border=false" height="180" alt="GitHub streak stats" />
-  <img src="https://github-profile-trophy.vercel.app/?username=karimboualam&theme=radical&no-frame=false&no-bg=true&margin-w=8" height="180" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com?user=karimboualam&theme=radical&hide_border=false" height="180" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karimboualam&theme=radical&no-frame=false&no-bg=true&margin-w=8" height="180" />
 </div>
 
 ---
