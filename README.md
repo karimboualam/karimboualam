@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" alt="Karim Boualam - Full Stack & DevOps Engineer" />
+</p>
+
 <h1 align="center">👋 Hey, I'm Karim Boualam</h1>
 <h3 align="center">🚀 Full Stack & DevOps Engineer | Java • Spring Boot • Angular • Docker • CI/CD</h3>
 
