@@ -1,11 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/Banner2.png" 
        alt="Karim Boualam - Full Stack & DevOps Engineer" 
        width="100%" 
        style="border-radius: 12px; box-shadow: 0px 0px 15px rgba(0,0,0,0.4);" />
 </p>
-
-<br/>
 
 <h1 align="center">👋 Hey, I'm Karim Boualam</h1>
 <h3 align="center">🚀 Full Stack & DevOps Engineer | Java • Spring Boot • Angular • Docker • CI/CD</h3>
@@ -18,11 +16,11 @@
 
 ## 👨‍💻 About Me
 
-💼 **Full Stack Developer** with 3+ years of experience in web application design, development, and deployment.  
+💼 **Full Stack Developer** with 3+ years of experience designing, developing, and deploying web applications.  
 🧩 Passionate about **microservices, automation, and DevOps culture**.  
-🐳 Skilled with **Spring Boot, Angular, Docker, Jenkins, GitHub Actions**.  
+🐳 Skilled in **Spring Boot, Angular, Docker, Jenkins, GitHub Actions**.  
 ⚙️ I love building **scalable backends** and **clean, maintainable frontends**.  
-🎯 My goal: Deliver performant, secure, and cloud-ready software solutions.  
+🎯 My goal: Deliver performant, secure, and cloud-ready solutions.  
 📍 Based in France — open to collaboration & innovation.
 
 ---
@@ -94,20 +92,38 @@ Containerized deployment on Jenkins & Kubernetes.
 ## 💼 Professional Experience
 
 🕒 **2024–2025** — *Full Stack Java/Angular Developer (Freelance @ Assfa)*  
-→ Microservices, CI/CD pipelines, Kafka, Docker, GitHub Actions  
+→ Microservices • CI/CD pipelines • Kafka • Docker • GitHub Actions  
 
 🕒 **2024** — *Full Stack Developer @ Capgemini*  
-→ API REST, Angular, GitLab CI/CD, SonarQube, Azure DevOps  
+→ API REST • Angular • GitLab CI/CD • SonarQube • Azure DevOps  
 
 🕒 **2023–2024** — *Academic Project — Historic Sites Management*  
-→ Spring Boot microservices, Jenkins, Docker, Kubernetes  
+→ Spring Boot microservices • Jenkins • Docker • Kubernetes  
 
 ---
 
-## 🎓 Certifications
+## 🎓 Education & Certifications
 
-🎯 **Professional Scrum Developer (PSD I)** — [Scrum.org](https://www.scrum.org/professional-scrum-developer)  
-🎓 **Master 2 — Big Data & Cloud Computing**, Université de Montpellier *(in progress)*  
+<div align="center">
+
+🎯 **Certifications**  
+🏅 [Professional Scrum Developer (PSD I)](https://www.scrum.org/professional-scrum-developer) — *Scrum.org*  
+🧩 Agile • Scrum Framework • Continuous Delivery  
+
+---
+
+🎓 **Degrees**
+
+🏛️ **Master in Computer Science** — *Université de Montpellier (2022–2024)*  
+💡 Focus: Software Engineering • Cloud Computing • Distributed Systems  
+
+🏛️ **Double Degree — Management of Technologies & Sciences** — *IAE Montpellier (2022–2024)*  
+📊 Business Intelligence • IT Project Management • Innovation Strategy  
+
+🎓 **DU Big Data & Risk Analysis (Python)** — *Université de Montpellier (2024–2025)*  
+📈 Data Science • Machine Learning • Risk Analysis with Python  
+
+</div>
 
 ---
 
@@ -115,6 +131,7 @@ Containerized deployment on Jenkins & Kubernetes.
 
 📘 **Advanced Spring Cloud** — Config • Gateway • Resilience4j  
 ☁️ **Cloud-native DevOps** — CI/CD optimization & observability  
+🤖 **AI for Developers** — ML, TensorFlow, OpenAI APIs  
 🐍 **Python for Big Data Analysis**
 
 ---
@@ -168,6 +185,6 @@ Containerized deployment on Jenkins & Kubernetes.
 ---
 
 <p align="center">
-  <i>“Passionate about clean architecture, automation, and scalable systems.”</i><br/>
+  <i>“Automate. Optimize. Deliver.”</i><br/>
   <b>Karim Boualam — Full Stack & DevOps Engineer</b>
 </p>
