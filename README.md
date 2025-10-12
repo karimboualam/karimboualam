@@ -68,7 +68,7 @@
 ### 🐍 Contribution Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/karimboualam/karimboualam/main/dist/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
